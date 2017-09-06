@@ -1,0 +1,1 @@
+LaTeX Beamer template for code highlighting with minted. Since minted is used remember to compile with the `--shell-escape` option. For more details see: http://felix11h.github.io/blog/latex-beamer-minted
